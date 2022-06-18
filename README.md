@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @topnarapat
-- 👀 I’m interested in Go
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Javascript, React, Go
+- 🌱 I’m currently learning Javascript, React, Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
